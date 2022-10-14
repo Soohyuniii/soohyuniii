@@ -1,7 +1,7 @@
 ### Hi there I'm mysoo 👋
 
-- 💬 I’m currently studying in " " University, Korea.
-- 🌱 I’m currently learning " ".
+- 💬 I’m currently studying in "Sogang University", Korea.
+- 🌱 I’m currently learning "Communication and Computer Science".
 - 📫 How to reach me: myungsoocc@naver.com
 
 ### 🛠Tech stack🛠
