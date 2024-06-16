@@ -1,7 +1,7 @@
 ### Hi there I'm mysoo 👋
 
-- 💬 I’m currently studying in "Sogang University", Korea.
-- 🌱 I’m currently learning "Communication and Computer Science".
+- 🌱 I’m currently working in Hanwha Solution as a web frontend developer.
+- 💬 I studied in Sogang University, Korea.
 - 📫 How to reach me: myungsoocc@naver.com
 
 ### 🛠Tech stack🛠
