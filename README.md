@@ -1,4 +1,4 @@
-### Hi there I'm mysoo 👋
+### Hi there I'm soohyun 👋
 
 - 🌱 I’m currently working in Hanwha Solution as a web frontend developer.
 - 💬 I studied in Sogang University, Korea.
